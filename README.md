@@ -20,7 +20,7 @@ This tutorial looks at how to develop and test an asynchronous API with FastAPI,
 
 - [Tutorial Website](https://testdriven.io/blog/fastapi-crud/)
 
-##Dependencies:
+## Dependencies:
 
 * FastAPI v0.46.0
 * Docker v19.03.5
@@ -28,8 +28,8 @@ This tutorial looks at how to develop and test an asynchronous API with FastAPI,
 * Pytest v5.3.2
 * Databases v0.2.6
 
-###Objectives
-####By the end of this post you should be able to:
+## Objectives
+By the end of this post you should be able to:
 
 - Develop an asynchronous RESTful API with Python and FastAPI
 - Practice Test-Driven Development
